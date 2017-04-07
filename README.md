@@ -1,6 +1,6 @@
 # Heaptrack-Docker
 
-![heaptrack-gui-flame-graph](https://raw.githubusercontent.com/muojp/heaptrack-docker/doc-images/heaptrack-gui-flame-graph.png)
+![heaptrack-gui-flame-graph](https://raw.githubusercontent.com/muojp/heaptrack-docker/master/doc-images/heaptrack-gui-flame-graph.png)
 
 ## Summary
 
