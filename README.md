@@ -13,7 +13,7 @@ Heaptrack is a new heap profiler developed by @milianw based on concept of Valgr
 
 ```
 $ docker pull muojp/heaptrack
-$ docker run --rm -it -p6080:6080 --volume /your/profiled/datadir:/root/data muojp/heaptrack
+$ docker run --rm -it -p6080:6080 --volume /your/profiled/datadir:/data muojp/heaptrack
 ```
 
 ### Access Heaptrack GUI using your Web Browser
@@ -41,7 +41,7 @@ Heaptrackは @milianw 氏がValgrind/Massifを参考にしつつ開発したも�
 
 ```
 $ docker pull muojp/heaptrack
-$ docker run --rm -it -p6080:6080 --volume /your/profiled/datadir:/root/data muojp/heaptrack
+$ docker run --rm -it -p6080:6080 --volume /your/profiled/datadir:/data muojp/heaptrack
 ```
 
 ### WebブラウザからHeaptrack GUIへアクセスする
